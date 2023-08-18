@@ -1,0 +1,602 @@
+[
+  {
+    "averageFrc": 185823.625,
+    "crossStr": "TEST  AVES  LORE  FLAW  ",
+    "downStr": "FLAT  LOVE  ARES  WEST  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"flaw\",\"index\":2726,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"lore\",\"index\":1932,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"aves\",\"index\":7506,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"test\",\"index\":416,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"flat\",\"index\":2110,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"love\",\"index\":40,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"ares\",\"index\":2829,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"west\",\"index\":367,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"FLAW\",\"LORE\",\"AVES\",\"TEST\"]}"
+  },
+  {
+    "averageFrc": 178422.6025,
+    "crossStr": "SEES  CINE  OKAY  DOVE  ",
+    "downStr": "DOCS  OKIE  VANE  EYES  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"dove\",\"index\":3910,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"okay\",\"index\":42,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"cine\",\"index\":9648,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"sees\",\"index\":5380,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"docs\",\"index\":528,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"okie\",\"index\":7577,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"vane\",\"index\":9578,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"eyes\",\"index\":307,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"DOVE\",\"OKAY\",\"CINE\",\"SEES\"]}"
+  },
+  {
+    "averageFrc": 170504.625,
+    "crossStr": "SEEP  YONI  ALAN  SAWS  ",
+    "downStr": "SAYS  ALOE  WANE  SNIP  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"saws\",\"index\":3877,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"alan\",\"index\":333,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"yoni\",\"index\":7686,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"seep\",\"index\":3629,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"says\",\"index\":39,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"aloe\",\"index\":3414,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"wane\",\"index\":3294,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"snip\",\"index\":5774,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"SAWS\",\"ALAN\",\"YONI\",\"SEEP\"]}"
+  },
+  {
+    "averageFrc": 109307.75,
+    "crossStr": "TARE  REAL  UREA  HAYS  ",
+    "downStr": "HURT  AREA  YEAR  SALE  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"hays\",\"index\":6934,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"urea\",\"index\":4158,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"real\",\"index\":453,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"tare\",\"index\":5152,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"hurt\",\"index\":340,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"area\",\"index\":190,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"year\",\"index\":102,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"sale\",\"index\":1020,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"HAYS\",\"UREA\",\"REAL\",\"TARE\"]}"
+  },
+  {
+    "averageFrc": 88867.375,
+    "crossStr": "PARE  LEAF  UREA  PAYS  ",
+    "downStr": "PULP  AREA  YEAR  SAFE  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"pays\",\"index\":1772,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"urea\",\"index\":4158,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"leaf\",\"index\":1104,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"pare\",\"index\":3800,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"pulp\",\"index\":3669,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"area\",\"index\":190,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"year\",\"index\":102,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"safe\",\"index\":643,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"PAYS\",\"UREA\",\"LEAF\",\"PARE\"]}"
+  },
+  {
+    "averageFrc": 79560.65375,
+    "crossStr": "ERRS  LEAD  APED  MAYO  ",
+    "downStr": "MALE  APER  YEAR  ODDS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"mayo\",\"index\":4166,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"aped\",\"index\":9276,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"lead\",\"index\":477,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"errs\",\"index\":4129,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"male\",\"index\":726,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"aper\",\"index\":8786,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"year\",\"index\":102,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"odds\",\"index\":851,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"MAYO\",\"APED\",\"LEAD\",\"ERRS\"]}"
+  },
+  {
+    "averageFrc": 77374.34875,
+    "crossStr": "HERO  TSAR  OATH  BEST  ",
+    "downStr": "BOTH  EASE  STAR  THRO  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"best\",\"index\":106,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"oath\",\"index\":2795,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"tsar\",\"index\":3466,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"hero\",\"index\":1353,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"both\",\"index\":225,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"ease\",\"index\":7231,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"star\",\"index\":899,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"thro\",\"index\":9813,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"BEST\",\"OATH\",\"TSAR\",\"HERO\"]}"
+  },
+  {
+    "averageFrc": 76918.73999999999,
+    "crossStr": "TELL  ANAL  LORE  BLOW  ",
+    "downStr": "BLAT  LONE  ORAL  WELL  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"blow\",\"index\":1334,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"lore\",\"index\":1932,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"anal\",\"index\":7749,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"tell\",\"index\":119,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"blat\",\"index\":9843,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"lone\",\"index\":1047,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"oral\",\"index\":6246,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"well\",\"index\":115,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"BLOW\",\"LORE\",\"ANAL\",\"TELL\"]}"
+  },
+  {
+    "averageFrc": 66101.665,
+    "crossStr": "LASS  LIED  AREA  FACT  ",
+    "downStr": "FALL  ARIA  CEES  TADS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"fact\",\"index\":341,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"area\",\"index\":190,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"lied\",\"index\":587,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"lass\",\"index\":4593,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"fall\",\"index\":149,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"aria\",\"index\":7790,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"cees\",\"index\":10025,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"tads\",\"index\":6279,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"FACT\",\"AREA\",\"LIED\",\"LASS\"]}"
+  },
+  {
+    "averageFrc": 61186.87625,
+    "crossStr": "HEST  TENS  YEAR  MITE  ",
+    "downStr": "MYTH  IEEE  TANS  ERST  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"mite\",\"index\":6154,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"year\",\"index\":102,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"tens\",\"index\":1867,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"hest\",\"index\":9791,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"myth\",\"index\":2208,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"ieee\",\"index\":4996,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"tans\",\"index\":4250,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"erst\",\"index\":5128,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"MITE\",\"YEAR\",\"TENS\",\"HEST\"]}"
+  },
+  {
+    "averageFrc": 50240.25,
+    "crossStr": "BARE  REAL  AREA  BUNT  ",
+    "downStr": "BARB  UREA  NEAR  TALE  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"bunt\",\"index\":6881,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"area\",\"index\":190,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"real\",\"index\":453,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"bare\",\"index\":1467,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"barb\",\"index\":1889,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"urea\",\"index\":4158,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"near\",\"index\":391,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"tale\",\"index\":1777,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"BUNT\",\"AREA\",\"REAL\",\"BARE\"]}"
+  },
+  {
+    "averageFrc": 43948.5,
+    "crossStr": "SENT  SHOO  ECOL  JABS  ",
+    "downStr": "JESS  ACHE  BOON  SLOT  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"jabs\",\"index\":6513,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"ecol\",\"index\":10030,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"shoo\",\"index\":9144,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"sent\",\"index\":112,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"jess\",\"index\":8223,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"ache\",\"index\":1233,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"boon\",\"index\":6566,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"slot\",\"index\":1987,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"JABS\",\"ECOL\",\"SHOO\",\"SENT\"]}"
+  },
+  {
+    "averageFrc": 42193.875,
+    "crossStr": "NEAT  EELS  LEER  GIVE  ",
+    "downStr": "GLEN  IEEE  VELA  ERST  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"give\",\"index\":113,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"leer\",\"index\":3283,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"eels\",\"index\":3229,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"neat\",\"index\":2657,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"glen\",\"index\":3875,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"ieee\",\"index\":4996,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"vela\",\"index\":8595,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"erst\",\"index\":5128,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"GIVE\",\"LEER\",\"EELS\",\"NEAT\"]}"
+  },
+  {
+    "averageFrc": 37651.00125,
+    "crossStr": "YARE  MEAL  AREA  GUNS  ",
+    "downStr": "GAMY  UREA  NEAR  SALE  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"guns\",\"index\":3779,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"area\",\"index\":190,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"meal\",\"index\":1440,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"yare\",\"index\":9892,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"gamy\",\"index\":7876,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"urea\",\"index\":4158,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"near\",\"index\":391,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"sale\",\"index\":1020,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"GUNS\",\"AREA\",\"MEAL\",\"YARE\"]}"
+  },
+  {
+    "averageFrc": 35971.0,
+    "crossStr": "GELS  DELE  LEES  BITE  ",
+    "downStr": "BLDG  IEEE  TELL  ESES  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"bite\",\"index\":1141,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"lees\",\"index\":6351,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"dele\",\"index\":8976,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"gels\",\"index\":3588,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"bldg\",\"index\":10227,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"ieee\",\"index\":4996,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"tell\",\"index\":119,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"eses\",\"index\":10063,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"BITE\",\"LEES\",\"DELE\",\"GELS\"]}"
+  },
+  {
+    "averageFrc": 35284.625,
+    "crossStr": "TENS  SHES  ACRE  FAWN  ",
+    "downStr": "FAST  ACHE  WREN  NESS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"fawn\",\"index\":4564,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"acre\",\"index\":2101,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"shes\",\"index\":337,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"tens\",\"index\":1867,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"fast\",\"index\":234,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"ache\",\"index\":1233,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"wren\",\"index\":4749,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"ness\",\"index\":10258,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"FAWN\",\"ACRE\",\"SHES\",\"TENS\"]}"
+  },
+  {
+    "averageFrc": 29891.0,
+    "crossStr": "ONES  MATE  HONE  SLAG  ",
+    "downStr": "SHMO  LOAN  ANTE  GEES  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"slag\",\"index\":5896,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"hone\",\"index\":6146,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"mate\",\"index\":1510,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"ones\",\"index\":143,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"shmo\",\"index\":8777,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"loan\",\"index\":999,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"ante\",\"index\":2749,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"gees\",\"index\":7032,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"SLAG\",\"HONE\",\"MATE\",\"ONES\"]}"
+  },
+  {
+    "averageFrc": 24807.0,
+    "crossStr": "SLAT  KEEP  SORE  ANUS  ",
+    "downStr": "ASKS  NOEL  UREA  SEPT  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"anus\",\"index\":5079,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"sore\",\"index\":2699,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"keep\",\"index\":150,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"slat\",\"index\":5491,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"asks\",\"index\":1808,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"noel\",\"index\":6290,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"urea\",\"index\":4158,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"sept\",\"index\":7366,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"ANUS\",\"SORE\",\"KEEP\",\"SLAT\"]}"
+  },
+  {
+    "averageFrc": 22357.25,
+    "crossStr": "EYES  FOES  ALEE  SPIC  ",
+    "downStr": "SAFE  PLOY  IEEE  CESS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"spic\",\"index\":10232,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"alee\",\"index\":8833,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"foes\",\"index\":2453,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"eyes\",\"index\":307,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"safe\",\"index\":643,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"ploy\",\"index\":3533,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"ieee\",\"index\":4996,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"cess\",\"index\":8094,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"SPIC\",\"ALEE\",\"FOES\",\"EYES\"]}"
+  },
+  {
+    "averageFrc": 20514.0,
+    "crossStr": "TORA  STAR  ALEE  VANS  ",
+    "downStr": "VAST  ALTO  NEAR  SERA  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"vans\",\"index\":3484,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"alee\",\"index\":8833,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"star\",\"index\":899,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"tora\",\"index\":8535,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"vast\",\"index\":795,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"alto\",\"index\":4792,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"near\",\"index\":391,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"sera\",\"index\":6004,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"VANS\",\"ALEE\",\"STAR\",\"TORA\"]}"
+  },
+  {
+    "averageFrc": 20248.25125,
+    "crossStr": "HAST  PEES  ORDO  QUIP  ",
+    "downStr": "QOPH  UREA  IDES  POST  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"quip\",\"index\":4810,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"ordo\",\"index\":9777,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"pees\",\"index\":7952,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"hast\",\"index\":5967,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"qoph\",\"index\":10195,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"urea\",\"index\":4158,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"ides\",\"index\":7210,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"post\",\"index\":175,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"QUIP\",\"ORDO\",\"PEES\",\"HAST\"]}"
+  },
+  {
+    "averageFrc": 19199.61375,
+    "crossStr": "TOPS  RIMY  ALOE  PORK  ",
+    "downStr": "PART  OLIO  ROMP  KEYS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"pork\",\"index\":7069,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"aloe\",\"index\":3414,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"rimy\",\"index\":9150,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"tops\",\"index\":3675,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"part\",\"index\":840,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"olio\",\"index\":6891,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"romp\",\"index\":5484,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"keys\",\"index\":241,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"PORK\",\"ALOE\",\"RIMY\",\"TOPS\"]}"
+  },
+  {
+    "averageFrc": 19137.0,
+    "crossStr": "PEAR  ERNE  TINE  SHAD  ",
+    "downStr": "STEP  HIRE  ANNA  DEER  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"shad\",\"index\":5650,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"tine\",\"index\":5329,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"erne\",\"index\":7619,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"pear\",\"index\":2985,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"step\",\"index\":215,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"hire\",\"index\":1024,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"anna\",\"index\":5750,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"deer\",\"index\":2579,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"SHAD\",\"TINE\",\"ERNE\",\"PEAR\"]}"
+  },
+  {
+    "averageFrc": 18905.274999999998,
+    "crossStr": "LOPS  LEAN  ALOE  COSY  ",
+    "downStr": "CALL  OLEO  SOAP  YENS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"cosy\",\"index\":5701,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"aloe\",\"index\":3414,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"lean\",\"index\":1572,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"lops\",\"index\":9680,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"call\",\"index\":315,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"oleo\",\"index\":9302,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"soap\",\"index\":1562,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"yens\",\"index\":3573,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"COSY\",\"ALOE\",\"LEAN\",\"LOPS\"]}"
+  },
+  {
+    "averageFrc": 16342.915,
+    "crossStr": "BASS  RITE  EROS  SALE  ",
+    "downStr": "SERB  ARIA  LOTS  ESES  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"sale\",\"index\":1020,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"eros\",\"index\":4325,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"rite\",\"index\":2794,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"bass\",\"index\":3770,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"serb\",\"index\":3359,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"aria\",\"index\":7790,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"lots\",\"index\":428,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"eses\",\"index\":10063,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"SALE\",\"EROS\",\"RITE\",\"BASS\"]}"
+  },
+  {
+    "averageFrc": 15833.875,
+    "crossStr": "ALES  BOLD  LIEU  AVDP  ",
+    "downStr": "ALBA  VIOL  DELE  PUDS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"avdp\",\"index\":10108,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"lieu\",\"index\":3243,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"bold\",\"index\":325,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"ales\",\"index\":3752,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"alba\",\"index\":8473,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"viol\",\"index\":5656,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"dele\",\"index\":8976,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"puds\",\"index\":9212,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"AVDP\",\"LIEU\",\"BOLD\",\"ALES\"]}"
+  },
+  {
+    "averageFrc": 15613.04,
+    "crossStr": "MADS  RILE  EROS  DACE  ",
+    "downStr": "DERM  ARIA  COLD  ESES  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"dace\",\"index\":8536,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"eros\",\"index\":4325,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"rile\",\"index\":5176,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"mads\",\"index\":8779,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"derm\",\"index\":7886,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"aria\",\"index\":7790,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"cold\",\"index\":226,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"eses\",\"index\":10063,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"DACE\",\"EROS\",\"RILE\",\"MADS\"]}"
+  },
+  {
+    "averageFrc": 15113.625,
+    "crossStr": "PERK  ORAL  LIEU  PENS  ",
+    "downStr": "PLOP  EIRE  NEAR  SULK  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"pens\",\"index\":2034,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"lieu\",\"index\":3243,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"oral\",\"index\":6246,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"perk\",\"index\":3366,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"plop\",\"index\":5575,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"eire\",\"index\":7087,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"near\",\"index\":391,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"sulk\",\"index\":4602,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"PENS\",\"LIEU\",\"ORAL\",\"PERK\"]}"
+  },
+  {
+    "averageFrc": 13260.3875,
+    "crossStr": "META  ASPS  RACE  PERM  ",
+    "downStr": "PRAM  EASE  RCPT  MESA  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"perm\",\"index\":2617,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"race\",\"index\":479,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"asps\",\"index\":6645,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"meta\",\"index\":8615,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"pram\",\"index\":6064,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"ease\",\"index\":7231,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"rcpt\",\"index\":10117,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"mesa\",\"index\":2862,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"PERM\",\"RACE\",\"ASPS\",\"META\"]}"
+  },
+  {
+    "averageFrc": 9951.5225,
+    "crossStr": "BOOS  MINT  OLEO  TORT  ",
+    "downStr": "TOMB  OLIO  RENO  TOTS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"tort\",\"index\":2756,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"oleo\",\"index\":9302,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"mint\",\"index\":526,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"boos\",\"index\":2386,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"tomb\",\"index\":3107,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"olio\",\"index\":6891,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"reno\",\"index\":3405,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"tots\",\"index\":5347,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"TORT\",\"OLEO\",\"MINT\",\"BOOS\"]}"
+  },
+  {
+    "averageFrc": 8645.1475,
+    "crossStr": "LONE  LEER  ALEE  WOKS  ",
+    "downStr": "WALL  OLEO  KEEN  SERE  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"woks\",\"index\":6088,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"alee\",\"index\":8833,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"leer\",\"index\":3283,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"lone\",\"index\":1047,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"wall\",\"index\":655,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"oleo\",\"index\":9302,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"keen\",\"index\":3773,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"sere\",\"index\":6454,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"WOKS\",\"ALEE\",\"LEER\",\"LONE\"]}"
+  },
+  {
+    "averageFrc": 8617.165,
+    "crossStr": "TASS  ICBM  PROS  SOLI  ",
+    "downStr": "SPIT  ORCA  LOBS  ISMS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"soli\",\"index\":8852,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"pros\",\"index\":571,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"icbm\",\"index\":5626,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"tass\",\"index\":10342,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"spit\",\"index\":1967,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"orca\",\"index\":8530,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"lobs\",\"index\":7288,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"isms\",\"index\":3572,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"SOLI\",\"PROS\",\"ICBM\",\"TASS\"]}"
+  },
+  {
+    "averageFrc": 7854.3775,
+    "crossStr": "SINS  LIED  LIDO  EXES  ",
+    "downStr": "ELLS  XIII  EDEN  SODS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"exes\",\"index\":4245,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"lido\",\"index\":6833,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"lied\",\"index\":587,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"sins\",\"index\":2735,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"ells\",\"index\":8315,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"xiii\",\"index\":9639,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"eden\",\"index\":3309,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"sods\",\"index\":8043,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"EXES\",\"LIDO\",\"LIED\",\"SINS\"]}"
+  },
+  {
+    "averageFrc": 7214.04,
+    "crossStr": "MATE  REAR  ARIA  HUFF  ",
+    "downStr": "HARM  UREA  FIAT  FARE  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"huff\",\"index\":4369,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"aria\",\"index\":7790,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"rear\",\"index\":1591,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"mate\",\"index\":1510,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"harm\",\"index\":796,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"urea\",\"index\":4158,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"fiat\",\"index\":5662,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"fare\",\"index\":3086,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"HUFF\",\"ARIA\",\"REAR\",\"MATE\"]}"
+  },
+  {
+    "averageFrc": 7127.25,
+    "crossStr": "PEES  ALEE  SUEY  ARID  ",
+    "downStr": "ASAP  RULE  IEEE  DYES  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"arid\",\"index\":3559,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"suey\",\"index\":10042,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"alee\",\"index\":8833,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"pees\",\"index\":7952,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"asap\",\"index\":4211,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"rule\",\"index\":649,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"ieee\",\"index\":4996,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"dyes\",\"index\":2374,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"ARID\",\"SUEY\",\"ALEE\",\"PEES\"]}"
+  },
+  {
+    "averageFrc": 6563.5,
+    "crossStr": "TAWS  AEON  ERNE  SUEY  ",
+    "downStr": "SEAT  UREA  ENOW  YENS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"suey\",\"index\":10042,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"erne\",\"index\":7619,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"aeon\",\"index\":5012,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"taws\",\"index\":8885,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"seat\",\"index\":636,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"urea\",\"index\":4158,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"enow\",\"index\":8826,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"yens\",\"index\":3573,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"SUEY\",\"ERNE\",\"AEON\",\"TAWS\"]}"
+  },
+  {
+    "averageFrc": 5641.79,
+    "crossStr": "SASS  PINE  ARES  YALE  ",
+    "downStr": "YAPS  ARIA  LENS  ESES  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"yale\",\"index\":3189,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"ares\",\"index\":2829,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"pine\",\"index\":1114,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"sass\",\"index\":3817,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"yaps\",\"index\":7558,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"aria\",\"index\":7790,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"lens\",\"index\":950,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"eses\",\"index\":10063,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"YALE\",\"ARES\",\"PINE\",\"SASS\"]}"
+  },
+  {
+    "averageFrc": 5628.5512499999995,
+    "crossStr": "BEYS  ASEA  RARE  DEPT  ",
+    "downStr": "DRAB  EASE  PREY  TEAS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"dept\",\"index\":1941,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"rare\",\"index\":883,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"asea\",\"index\":9525,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"beys\",\"index\":8630,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"drab\",\"index\":3599,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"ease\",\"index\":7231,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"prey\",\"index\":2415,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"teas\",\"index\":3402,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"DEPT\",\"RARE\",\"ASEA\",\"BEYS\"]}"
+  },
+  {
+    "averageFrc": 4949.54,
+    "crossStr": "EARS  REED  ARIA  BUTT  ",
+    "downStr": "BARE  UREA  TIER  TADS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"butt\",\"index\":1524,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"aria\",\"index\":7790,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"reed\",\"index\":3810,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"ears\",\"index\":6144,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"bare\",\"index\":1467,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"urea\",\"index\":4158,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"tier\",\"index\":1756,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"tads\",\"index\":6279,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"BUTT\",\"ARIA\",\"REED\",\"EARS\"]}"
+  },
+  {
+    "averageFrc": 4802.0975,
+    "crossStr": "WEDS  ESES  RAGE  DEAN  ",
+    "downStr": "DREW  EASE  AGED  NESS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"dean\",\"index\":3730,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"rage\",\"index\":1947,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"eses\",\"index\":10063,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"weds\",\"index\":2864,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"drew\",\"index\":1810,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"ease\",\"index\":7231,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"aged\",\"index\":1575,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"ness\",\"index\":10258,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"DEAN\",\"RAGE\",\"ESES\",\"WEDS\"]}"
+  },
+  {
+    "averageFrc": 4501.75,
+    "crossStr": "RAKE  BENT  BRAN  AURA  ",
+    "downStr": "ABBR  UREA  RANK  ANTE  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"aura\",\"index\":2534,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"bran\",\"index\":5419,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"bent\",\"index\":1797,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"rake\",\"index\":2601,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"abbr\",\"index\":10003,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"urea\",\"index\":4158,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"rank\",\"index\":1329,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"ante\",\"index\":2749,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"AURA\",\"BRAN\",\"BENT\",\"RAKE\"]}"
+  },
+  {
+    "averageFrc": 4475.62625,
+    "crossStr": "TEAT  URNS  MINE  SHAH  ",
+    "downStr": "SMUT  HIRE  ANNA  HEST  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"shah\",\"index\":4752,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"mine\",\"index\":1432,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"urns\",\"index\":3977,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"teat\",\"index\":7406,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"smut\",\"index\":6387,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"hire\",\"index\":1024,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"anna\",\"index\":5750,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"hest\",\"index\":9791,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"SHAH\",\"MINE\",\"URNS\",\"TEAT\"]}"
+  },
+  {
+    "averageFrc": 4235.76,
+    "crossStr": "LYES  RODS  THAI  CALK  ",
+    "downStr": "CTRL  AHOY  LADE  KISS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"calk\",\"index\":9200,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"thai\",\"index\":2570,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"rods\",\"index\":1943,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"lyes\",\"index\":9597,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"ctrl\",\"index\":4962,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"ahoy\",\"index\":5482,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"lade\",\"index\":7603,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"kiss\",\"index\":1036,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"CALK\",\"THAI\",\"RODS\",\"LYES\"]}"
+  },
+  {
+    "averageFrc": 3784.25,
+    "crossStr": "ERNS  AERY  REAR  BLED  ",
+    "downStr": "BRAE  LEER  EARN  DRYS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"bled\",\"index\":2551,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"rear\",\"index\":1591,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"aery\",\"index\":8058,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"erns\",\"index\":8089,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"brae\",\"index\":8511,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"leer\",\"index\":3283,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"earn\",\"index\":1749,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"drys\",\"index\":7428,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"BLED\",\"REAR\",\"AERY\",\"ERNS\"]}"
+  },
+  {
+    "averageFrc": 3689.5,
+    "crossStr": "SEAS  DIES  OKRA  NOUS  ",
+    "downStr": "NODS  OKIE  UREA  SASS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"nous\",\"index\":6041,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"okra\",\"index\":4110,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"dies\",\"index\":1620,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"seas\",\"index\":1415,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"nods\",\"index\":3934,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"okie\",\"index\":7577,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"urea\",\"index\":4158,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"sass\",\"index\":3817,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"NOUS\",\"OKRA\",\"DIES\",\"SEAS\"]}"
+  },
+  {
+    "averageFrc": 3151.875,
+    "crossStr": "TEAT  AWES  TORE  SHUN  ",
+    "downStr": "STAT  HOWE  UREA  NEST  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"shun\",\"index\":4056,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"tore\",\"index\":3284,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"awes\",\"index\":8195,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"teat\",\"index\":7406,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"stat\",\"index\":1839,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"howe\",\"index\":6459,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"urea\",\"index\":4158,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"nest\",\"index\":2085,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"SHUN\",\"TORE\",\"AWES\",\"TEAT\"]}"
+  },
+  {
+    "averageFrc": 1957.75125,
+    "crossStr": "WELT  EELS  HEIR  SIRE  ",
+    "downStr": "SHEW  IEEE  RILL  ERST  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"sire\",\"index\":2872,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"heir\",\"index\":1895,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"eels\",\"index\":3229,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"welt\",\"index\":6939,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"shew\",\"index\":9964,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"ieee\",\"index\":4996,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"rill\",\"index\":7715,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"erst\",\"index\":5128,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"SIRE\",\"HEIR\",\"EELS\",\"WELT\"]}"
+  },
+  {
+    "averageFrc": 1893.99125,
+    "crossStr": "SAGS  FINN  FLUE  OILY  ",
+    "downStr": "OFFS  ILIA  LUNG  YENS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"oily\",\"index\":7382,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"flue\",\"index\":6618,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"finn\",\"index\":4148,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"sags\",\"index\":6475,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"offs\",\"index\":6184,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"ilia\",\"index\":9702,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"lung\",\"index\":1707,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"yens\",\"index\":3573,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"OILY\",\"FLUE\",\"FINN\",\"SAGS\"]}"
+  },
+  {
+    "averageFrc": 1840.6475,
+    "crossStr": "EONS  REEL  ALEE  TOKE  ",
+    "downStr": "TARE  OLEO  KEEN  EELS  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"toke\",\"index\":5849,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"alee\",\"index\":8833,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"reel\",\"index\":2941,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"eons\",\"index\":2179,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"tare\",\"index\":5152,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"oleo\",\"index\":9302,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"keen\",\"index\":3773,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"eels\",\"index\":3229,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"TOKE\",\"ALEE\",\"REEL\",\"EONS\"]}"
+  },
+  {
+    "averageFrc": 316.25125,
+    "crossStr": "HAST  PEES  ORDO  QUOD  ",
+    "downStr": "QOPH  UREA  ODES  DOST  ",
+    "boardJson": "{\"row\":4,\"col\":4,\"words\":[{\"word\":\"quod\",\"index\":8803,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"ordo\",\"index\":9777,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"pees\",\"index\":7952,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"hast\",\"index\":5967,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"qoph\",\"index\":10195,\"cross\":false,\"startRow\":3,\"startCol\":0},{\"word\":\"urea\",\"index\":4158,\"cross\":false,\"startRow\":3,\"startCol\":1},{\"word\":\"odes\",\"index\":4316,\"cross\":false,\"startRow\":3,\"startCol\":2},{\"word\":\"dost\",\"index\":5412,\"cross\":false,\"startRow\":3,\"startCol\":3}],\"board\":[\"QUOD\",\"ORDO\",\"PEES\",\"HAST\"]}"
+  },
+  {
+    "averageFrc": 171438.2,
+    "crossStr": "STERE  TOTES  ABATE  NORTH  GROUT  ",
+    "downStr": "GNATS  ROBOT  ORATE  UTTER  THESE  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"grout\",\"index\":4902,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"north\",\"index\":859,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"abate\",\"index\":4154,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"totes\",\"index\":3728,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"stere\",\"index\":8493,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"gnats\",\"index\":5368,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"robot\",\"index\":2517,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"orate\",\"index\":5251,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"utter\",\"index\":1422,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"these\",\"index\":23,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"GROUT\",\"NORTH\",\"ABATE\",\"TOTES\",\"STERE\"]}"
+  },
+  {
+    "averageFrc": 138508.40600000002,
+    "crossStr": "SATYR  THERE  LATER  EMCEE  BOOBS  ",
+    "downStr": "BELTS  OMAHA  OCTET  BEERY  SERER  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"boobs\",\"index\":5579,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"emcee\",\"index\":9600,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"later\",\"index\":363,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"there\",\"index\":31,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"satyr\",\"index\":6153,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"belts\",\"index\":2541,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"omaha\",\"index\":3467,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"octet\",\"index\":5007,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"beery\",\"index\":8316,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"serer\",\"index\":10026,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"BOOBS\",\"EMCEE\",\"LATER\",\"THERE\",\"SATYR\"]}"
+  },
+  {
+    "averageFrc": 128694.701,
+    "crossStr": "THERE  ACNED  LLAMA  PENAL  SWING  ",
+    "downStr": "SPLAT  WELCH  INANE  NAMER  GLADE  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"swing\",\"index\":965,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"penal\",\"index\":3068,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"llama\",\"index\":3397,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"acned\",\"index\":9736,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"there\",\"index\":31,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"splat\",\"index\":6744,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"welch\",\"index\":7443,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"inane\",\"index\":5020,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"namer\",\"index\":8956,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"glade\",\"index\":5418,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"SWING\",\"PENAL\",\"LLAMA\",\"ACNED\",\"THERE\"]}"
+  },
+  {
+    "averageFrc": 35999.301,
+    "crossStr": "SERES  PLONK  SITES  AGORA  GAMIC  ",
+    "downStr": "GASPS  AGILE  MOTOR  IRENE  CASKS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"gamic\",\"index\":9929,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"agora\",\"index\":5768,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"sites\",\"index\":111,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"plonk\",\"index\":8906,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"seres\",\"index\":9229,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"gasps\",\"index\":3517,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"agile\",\"index\":1554,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"motor\",\"index\":1151,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"irene\",\"index\":3984,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"casks\",\"index\":5369,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"GAMIC\",\"AGORA\",\"SITES\",\"PLONK\",\"SERES\"]}"
+  },
+  {
+    "averageFrc": 24397.5,
+    "crossStr": "SLATS  LAIRD  LEPER  ARENA  MUSIC  ",
+    "downStr": "MALLS  UREAL  SEPIA  INERT  CARDS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"music\",\"index\":200,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"arena\",\"index\":1366,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"leper\",\"index\":695,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"laird\",\"index\":6473,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"slats\",\"index\":5185,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"malls\",\"index\":1985,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"ureal\",\"index\":10099,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"sepia\",\"index\":5474,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"inert\",\"index\":2645,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"cards\",\"index\":1303,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"MUSIC\",\"ARENA\",\"LEPER\",\"LAIRD\",\"SLATS\"]}"
+  },
+  {
+    "averageFrc": 22349.7,
+    "crossStr": "HELLS  SCALP  RATIO  APART  HANGS  ",
+    "downStr": "HARSH  APACE  NATAL  GRILL  STOPS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"hangs\",\"index\":4558,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"apart\",\"index\":277,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"ratio\",\"index\":1870,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"scalp\",\"index\":4597,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"hells\",\"index\":6312,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"harsh\",\"index\":2346,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"apace\",\"index\":5537,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"natal\",\"index\":4339,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"grill\",\"index\":3078,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"stops\",\"index\":511,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"HANGS\",\"APART\",\"RATIO\",\"SCALP\",\"HELLS\"]}"
+  },
+  {
+    "averageFrc": 15415.7,
+    "crossStr": "STEPS  PINUP  ABATE  RANEE  WHIGS  ",
+    "downStr": "WRAPS  HABIT  INANE  GETUP  SEEPS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"whigs\",\"index\":5230,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"ranee\",\"index\":8412,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"abate\",\"index\":4154,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"pinup\",\"index\":5290,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"steps\",\"index\":229,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"wraps\",\"index\":1906,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"habit\",\"index\":1538,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"inane\",\"index\":5020,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"getup\",\"index\":2383,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"seeps\",\"index\":4651,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"WHIGS\",\"RANEE\",\"ABATE\",\"PINUP\",\"STEPS\"]}"
+  },
+  {
+    "averageFrc": 15119.501,
+    "crossStr": "EARLS  SHEET  WATER  AMINO  HOCKS  ",
+    "downStr": "HAWSE  OMAHA  CITER  KNEEL  SORTS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"hocks\",\"index\":5918,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"amino\",\"index\":989,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"water\",\"index\":478,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"sheet\",\"index\":1268,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"earls\",\"index\":6509,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"hawse\",\"index\":9841,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"omaha\",\"index\":3467,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"citer\",\"index\":10315,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"kneel\",\"index\":4065,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"sorts\",\"index\":1669,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"HOCKS\",\"AMINO\",\"WATER\",\"SHEET\",\"EARLS\"]}"
+  },
+  {
+    "averageFrc": 13814.4,
+    "crossStr": "STIRS  TOTED  AGATE  WROTE  TECUM  ",
+    "downStr": "TWATS  ERGOT  COATI  UTTER  MEEDS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"tecum\",\"index\":10238,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"wrote\",\"index\":284,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"agate\",\"index\":6895,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"toted\",\"index\":6660,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"stirs\",\"index\":2994,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"twats\",\"index\":8247,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"ergot\",\"index\":7323,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"coati\",\"index\":8390,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"utter\",\"index\":1422,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"meeds\",\"index\":8234,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"TECUM\",\"WROTE\",\"AGATE\",\"TOTED\",\"STIRS\"]}"
+  },
+  {
+    "averageFrc": 12764.912,
+    "crossStr": "PEASE  MIMER  IRATE  RELIT  CELLS  ",
+    "downStr": "CRIMP  EERIE  LLAMA  LITES  STERE  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"cells\",\"index\":301,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"relit\",\"index\":5916,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"irate\",\"index\":3522,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"mimer\",\"index\":9420,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"pease\",\"index\":8449,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"crimp\",\"index\":9313,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"eerie\",\"index\":4684,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"llama\",\"index\":3397,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"lites\",\"index\":6951,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"stere\",\"index\":8493,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"CELLS\",\"RELIT\",\"IRATE\",\"MIMER\",\"PEASE\"]}"
+  },
+  {
+    "averageFrc": 10855.5,
+    "crossStr": "NECKS  OPINE  YONIS  ALOHA  RECTO  ",
+    "downStr": "RAYON  ELOPE  CONIC  THINK  OASES  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"recto\",\"index\":6612,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"aloha\",\"index\":4938,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"yonis\",\"index\":8292,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"opine\",\"index\":4636,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"necks\",\"index\":2439,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"rayon\",\"index\":4197,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"elope\",\"index\":5162,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"conic\",\"index\":7058,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"think\",\"index\":470,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"oases\",\"index\":4193,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"RECTO\",\"ALOHA\",\"YONIS\",\"OPINE\",\"NECKS\"]}"
+  },
+  {
+    "averageFrc": 10553.803,
+    "crossStr": "REDOS  EVADE  MIENS  AGREE  NOOKY  ",
+    "downStr": "NAMER  OGIVE  OREAD  KENDO  YESES  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"nooky\",\"index\":9708,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"agree\",\"index\":430,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"miens\",\"index\":8248,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"evade\",\"index\":3186,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"redos\",\"index\":5123,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"namer\",\"index\":8956,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"ogive\",\"index\":8767,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"oread\",\"index\":9906,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"kendo\",\"index\":6746,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"yeses\",\"index\":7918,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"NOOKY\",\"AGREE\",\"MIENS\",\"EVADE\",\"REDOS\"]}"
+  },
+  {
+    "averageFrc": 10459.9,
+    "crossStr": "ARETE  SENSE  STAIR  APNEA  MAIDS  ",
+    "downStr": "MASSA  APTER  INANE  DEIST  SAREE  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"maids\",\"index\":4185,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"apnea\",\"index\":3395,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"stair\",\"index\":3646,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"sense\",\"index\":475,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"arete\",\"index\":8385,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"massa\",\"index\":7678,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"apter\",\"index\":8325,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"inane\",\"index\":5020,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"deist\",\"index\":7346,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"saree\",\"index\":5867,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"MAIDS\",\"APNEA\",\"STAIR\",\"SENSE\",\"ARETE\"]}"
+  },
+  {
+    "averageFrc": 8674.103,
+    "crossStr": "ISLES  STAMP  RITES  OMAHA  TENTH  ",
+    "downStr": "TORSI  EMITS  NATAL  THEME  HASPS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"tenth\",\"index\":747,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"omaha\",\"index\":3467,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"rites\",\"index\":1995,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"stamp\",\"index\":1393,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"isles\",\"index\":3288,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"torsi\",\"index\":9079,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"emits\",\"index\":2421,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"natal\",\"index\":4339,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"theme\",\"index\":1013,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"hasps\",\"index\":9614,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"TENTH\",\"OMAHA\",\"RITES\",\"STAMP\",\"ISLES\"]}"
+  },
+  {
+    "averageFrc": 7802.901,
+    "crossStr": "TORTS  SLANT  ULNAE  RELIT  THUGS  ",
+    "downStr": "TRUST  HELLO  ULNAR  GIANT  STETS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"thugs\",\"index\":3435,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"relit\",\"index\":5916,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"ulnae\",\"index\":6036,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"slant\",\"index\":3049,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"torts\",\"index\":5477,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"trust\",\"index\":605,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"hello\",\"index\":1098,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"ulnar\",\"index\":5688,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"giant\",\"index\":9873,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"stets\",\"index\":8049,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"THUGS\",\"RELIT\",\"ULNAE\",\"SLANT\",\"TORTS\"]}"
+  },
+  {
+    "averageFrc": 6875.998000000001,
+    "crossStr": "ESSES  PIECE  IDLER  RADIO  TWINY  ",
+    "downStr": "TRIPE  WADIS  IDLES  NIECE  YORES  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"twiny\",\"index\":10304,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"radio\",\"index\":596,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"idler\",\"index\":5786,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"piece\",\"index\":1636,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"esses\",\"index\":8176,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"tripe\",\"index\":7471,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"wadis\",\"index\":6764,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"idles\",\"index\":6416,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"niece\",\"index\":7065,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"yores\",\"index\":9664,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"TWINY\",\"RADIO\",\"IDLER\",\"PIECE\",\"ESSES\"]}"
+  },
+  {
+    "averageFrc": 6839.710000000001,
+    "crossStr": "HANTS  SLOOP  ALIVE  MARIE  SWOPS  ",
+    "downStr": "SMASH  WALLA  ORION  PIVOT  SEEPS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"swops\",\"index\":9705,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"marie\",\"index\":9595,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"alive\",\"index\":721,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"sloop\",\"index\":7173,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"hants\",\"index\":10244,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"smash\",\"index\":2136,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"walla\",\"index\":8135,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"orion\",\"index\":3488,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"pivot\",\"index\":1118,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"seeps\",\"index\":4651,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"SWOPS\",\"MARIE\",\"ALIVE\",\"SLOOP\",\"HANTS\"]}"
+  },
+  {
+    "averageFrc": 6055.802,
+    "crossStr": "SLEDS  TACET  LENTO  AREAL  HUFFS  ",
+    "downStr": "HALTS  UREAL  FENCE  FATED  SLOTS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"huffs\",\"index\":6653,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"areal\",\"index\":9665,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"lento\",\"index\":8571,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"tacet\",\"index\":8106,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"sleds\",\"index\":4685,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"halts\",\"index\":689,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"ureal\",\"index\":10099,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"fence\",\"index\":1742,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"fated\",\"index\":5527,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"slots\",\"index\":4006,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"HUFFS\",\"AREAL\",\"LENTO\",\"TACET\",\"SLEDS\"]}"
+  },
+  {
+    "averageFrc": 5395.1,
+    "crossStr": "TENOR  STAGE  REMIT  AROMA  KARAT  ",
+    "downStr": "KARST  ARETE  ROMAN  AMIGO  TATER  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"karat\",\"index\":5671,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"aroma\",\"index\":3023,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"remit\",\"index\":4476,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"stage\",\"index\":863,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"tenor\",\"index\":2433,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"karst\",\"index\":5005,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"arete\",\"index\":8385,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"roman\",\"index\":1056,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"amigo\",\"index\":5210,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"tater\",\"index\":7166,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"KARAT\",\"AROMA\",\"REMIT\",\"STAGE\",\"TENOR\"]}"
+  },
+  {
+    "averageFrc": 5196.411999999999,
+    "crossStr": "SEXES  EDICT  DIMES  OLDIE  LEANT  ",
+    "downStr": "LODES  ELIDE  ADMIX  NIECE  TESTS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"leant\",\"index\":6313,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"oldie\",\"index\":5443,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"dimes\",\"index\":2912,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"edict\",\"index\":4239,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"sexes\",\"index\":954,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"lodes\",\"index\":3738,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"elide\",\"index\":8404,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"admix\",\"index\":9548,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"niece\",\"index\":7065,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"tests\",\"index\":991,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"LEANT\",\"OLDIE\",\"DIMES\",\"EDICT\",\"SEXES\"]}"
+  },
+  {
+    "averageFrc": 4965.0,
+    "crossStr": "SCARY  RARER  EMBER  SUMMA  USUAL  ",
+    "downStr": "USERS  SUMAC  UMBRA  AMEER  LARRY  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"usual\",\"index\":1185,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"summa\",\"index\":5657,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"ember\",\"index\":2884,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"rarer\",\"index\":6501,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"scary\",\"index\":2015,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"users\",\"index\":1067,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"sumac\",\"index\":6662,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"umbra\",\"index\":5819,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"ameer\",\"index\":6037,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"larry\",\"index\":3246,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"USUAL\",\"SUMMA\",\"EMBER\",\"RARER\",\"SCARY\"]}"
+  },
+  {
+    "averageFrc": 4587.601000000001,
+    "crossStr": "YELLS  STIED  RAVEN  URINE  POCKS  ",
+    "downStr": "PURSY  ORATE  CIVIL  KNEEL  SENDS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"pocks\",\"index\":7855,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"urine\",\"index\":2949,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"raven\",\"index\":2996,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"stied\",\"index\":9499,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"yells\",\"index\":3008,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"pursy\",\"index\":9885,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"orate\",\"index\":5251,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"civil\",\"index\":854,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"kneel\",\"index\":4065,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"sends\",\"index\":1821,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"POCKS\",\"URINE\",\"RAVEN\",\"STIED\",\"YELLS\"]}"
+  },
+  {
+    "averageFrc": 4228.0,
+    "crossStr": "STEEL  TRIPE  SETAE  EVERT  NARCS  ",
+    "downStr": "NESTS  AVERT  RETIE  CRAPE  STEEL  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"narcs\",\"index\":5865,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"evert\",\"index\":8757,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"setae\",\"index\":7516,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"tripe\",\"index\":7471,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"steel\",\"index\":1165,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"nests\",\"index\":2963,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"avert\",\"index\":2203,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"retie\",\"index\":8198,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"crape\",\"index\":7578,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"steel\",\"index\":1165,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"NARCS\",\"EVERT\",\"SETAE\",\"TRIPE\",\"STEEL\"]}"
+  },
+  {
+    "averageFrc": 4082.9,
+    "crossStr": "ESSES  RESET  ARISE  TAMER  SCARF  ",
+    "downStr": "STARE  CARES  AMISS  RESEE  FRETS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"scarf\",\"index\":2732,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"tamer\",\"index\":5016,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"arise\",\"index\":2360,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"reset\",\"index\":1827,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"esses\",\"index\":8176,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"stare\",\"index\":2205,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"cares\",\"index\":1537,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"amiss\",\"index\":3959,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"resee\",\"index\":8391,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"frets\",\"index\":6439,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"SCARF\",\"TAMER\",\"ARISE\",\"RESET\",\"ESSES\"]}"
+  },
+  {
+    "averageFrc": 3722.0009999999993,
+    "crossStr": "STATS  TERCE  STAIN  ACIDY  VOTED  ",
+    "downStr": "VASTS  OCTET  TIARA  EDICT  DYNES  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"voted\",\"index\":1065,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"acidy\",\"index\":9916,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"stain\",\"index\":2503,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"terce\",\"index\":8887,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"stats\",\"index\":1782,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"vasts\",\"index\":6042,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"octet\",\"index\":5007,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"tiara\",\"index\":4832,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"edict\",\"index\":4239,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"dynes\",\"index\":9038,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"VOTED\",\"ACIDY\",\"STAIN\",\"TERCE\",\"STATS\"]}"
+  },
+  {
+    "averageFrc": 3618.7,
+    "crossStr": "SNEER  RAMIE  EMERY  ETHEL  DATES  ",
+    "downStr": "DEERS  ATMAN  THEME  EERIE  SLYER  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"dates\",\"index\":1234,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"ethel\",\"index\":7177,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"emery\",\"index\":5743,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"ramie\",\"index\":4922,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"sneer\",\"index\":5135,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"deers\",\"index\":6022,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"atman\",\"index\":5868,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"theme\",\"index\":1013,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"eerie\",\"index\":4684,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"slyer\",\"index\":7137,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"DATES\",\"ETHEL\",\"EMERY\",\"RAMIE\",\"SNEER\"]}"
+  },
+  {
+    "averageFrc": 3417.403,
+    "crossStr": "TONES  CEASE  AMIRS  ROPES  TRAVE  ",
+    "downStr": "TRACT  ROMEO  APIAN  VERSE  ESSES  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"trave\",\"index\":9763,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"ropes\",\"index\":2564,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"amirs\",\"index\":9622,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"cease\",\"index\":1826,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"tones\",\"index\":1578,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"tract\",\"index\":2933,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"romeo\",\"index\":3782,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"apian\",\"index\":8110,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"verse\",\"index\":2549,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"esses\",\"index\":8176,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"TRAVE\",\"ROPES\",\"AMIRS\",\"CEASE\",\"TONES\"]}"
+  },
+  {
+    "averageFrc": 3382.4,
+    "crossStr": "SOLES  RELIT  EMIRS  SIREE  UMBER  ",
+    "downStr": "USERS  MIMEO  BRILL  EERIE  RESTS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"umber\",\"index\":6868,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"siree\",\"index\":8222,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"emirs\",\"index\":5149,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"relit\",\"index\":5916,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"soles\",\"index\":3972,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"users\",\"index\":1067,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"mimeo\",\"index\":8727,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"brill\",\"index\":8158,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"eerie\",\"index\":4684,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"rests\",\"index\":1651,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"UMBER\",\"SIREE\",\"EMIRS\",\"RELIT\",\"SOLES\"]}"
+  },
+  {
+    "averageFrc": 3377.0980000000004,
+    "crossStr": "SLEET  EASES  DEUCE  ALAMO  WIPED  ",
+    "downStr": "WADES  ILEAL  PAUSE  EMCEE  DOEST  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"wiped\",\"index\":4774,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"alamo\",\"index\":4895,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"deuce\",\"index\":4326,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"eases\",\"index\":3146,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"sleet\",\"index\":8526,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"wades\",\"index\":3502,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"ileal\",\"index\":7237,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"pause\",\"index\":874,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"emcee\",\"index\":9600,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"doest\",\"index\":9740,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"WIPED\",\"ALAMO\",\"DEUCE\",\"EASES\",\"SLEET\"]}"
+  },
+  {
+    "averageFrc": 3279.6009999999997,
+    "crossStr": "STIMY  KRAUT  SENNA  AVAIL  BALLS  ",
+    "downStr": "BASKS  AVERT  LANAI  LINUM  SLATY  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"balls\",\"index\":935,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"avail\",\"index\":3936,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"senna\",\"index\":6083,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"kraut\",\"index\":7026,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"stimy\",\"index\":9773,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"basks\",\"index\":8680,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"avert\",\"index\":2203,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"lanai\",\"index\":7222,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"linum\",\"index\":9169,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"slaty\",\"index\":9417,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"BALLS\",\"AVAIL\",\"SENNA\",\"KRAUT\",\"STIMY\"]}"
+  },
+  {
+    "averageFrc": 2972.6070000000004,
+    "crossStr": "SERES  PREST  SONES  ADOBE  WAGON  ",
+    "downStr": "WASPS  ADORE  GONER  OBESE  NESTS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"wagon\",\"index\":2320,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"adobe\",\"index\":2249,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"sones\",\"index\":8122,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"prest\",\"index\":9774,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"seres\",\"index\":9229,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"wasps\",\"index\":4127,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"adore\",\"index\":2016,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"goner\",\"index\":9317,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"obese\",\"index\":2562,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"nests\",\"index\":2963,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"WAGON\",\"ADOBE\",\"SONES\",\"PREST\",\"SERES\"]}"
+  },
+  {
+    "averageFrc": 2887.491,
+    "crossStr": "SWEAR  EAGLE  FLUOR  ANOIA  CURVY  ",
+    "downStr": "CAFES  UNLAW  ROUGE  VIOLA  YARER  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"curvy\",\"index\":6686,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"anoia\",\"index\":10101,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"fluor\",\"index\":9011,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"eagle\",\"index\":2145,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"swear\",\"index\":1407,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"cafes\",\"index\":2720,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"unlaw\",\"index\":7488,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"rouge\",\"index\":3521,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"viola\",\"index\":3376,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"yarer\",\"index\":10036,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"CURVY\",\"ANOIA\",\"FLUOR\",\"EAGLE\",\"SWEAR\"]}"
+  },
+  {
+    "averageFrc": 2851.9080000000004,
+    "crossStr": "SERES  PEACE  ASTER  HELIO  WRANG  ",
+    "downStr": "WHAPS  RESEE  ALTAR  NIECE  GORES  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"wrang\",\"index\":7335,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"helio\",\"index\":9576,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"aster\",\"index\":6278,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"peace\",\"index\":1201,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"seres\",\"index\":9229,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"whaps\",\"index\":9109,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"resee\",\"index\":8391,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"altar\",\"index\":1778,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"niece\",\"index\":7065,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"gores\",\"index\":4987,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"WRANG\",\"HELIO\",\"ASTER\",\"PEACE\",\"SERES\"]}"
+  },
+  {
+    "averageFrc": 2770.8010000000004,
+    "crossStr": "AMISH  TRAMP  CANAL  ALARY  PALPS  ",
+    "downStr": "PACTA  ALARM  LANAI  PRAMS  SYLPH  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"palps\",\"index\":8320,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"alary\",\"index\":10257,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"canal\",\"index\":2096,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"tramp\",\"index\":5495,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"amish\",\"index\":4020,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"pacta\",\"index\":9844,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"alarm\",\"index\":1159,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"lanai\",\"index\":7222,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"prams\",\"index\":7445,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"sylph\",\"index\":8239,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"PALPS\",\"ALARY\",\"CANAL\",\"TRAMP\",\"AMISH\"]}"
+  },
+  {
+    "averageFrc": 2715.474,
+    "crossStr": "SLOES  EAGER  HENCE  CLIME  AIDED  ",
+    "downStr": "ACHES  ILEAL  DINGO  EMCEE  DEERS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"aided\",\"index\":8169,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"clime\",\"index\":7655,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"hence\",\"index\":1733,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"eager\",\"index\":1280,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"sloes\",\"index\":8856,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"aches\",\"index\":2998,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"ileal\",\"index\":7237,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"dingo\",\"index\":6194,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"emcee\",\"index\":9600,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"deers\",\"index\":6022,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"AIDED\",\"CLIME\",\"HENCE\",\"EAGER\",\"SLOES\"]}"
+  },
+  {
+    "averageFrc": 2535.0029999999997,
+    "crossStr": "LASES  AMENT  REDES  UNARY  REFIX  ",
+    "downStr": "RURAL  ENEMA  FADES  IRENE  XYSTS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"refix\",\"index\":8876,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"unary\",\"index\":7632,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"redes\",\"index\":10004,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"ament\",\"index\":9016,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"lases\",\"index\":9644,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"rural\",\"index\":1232,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"enema\",\"index\":4121,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"fades\",\"index\":1951,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"irene\",\"index\":3984,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"xysts\",\"index\":9961,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"REFIX\",\"UNARY\",\"REDES\",\"AMENT\",\"LASES\"]}"
+  },
+  {
+    "averageFrc": 2065.6220000000003,
+    "crossStr": "SINES  PUREE  ENACT  ENEMA  KEYED  ",
+    "downStr": "KEEPS  ENNUI  YEARN  EMCEE  DATES  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"keyed\",\"index\":4806,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"enema\",\"index\":4121,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"enact\",\"index\":2376,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"puree\",\"index\":4255,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"sines\",\"index\":8939,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"keeps\",\"index\":6271,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"ennui\",\"index\":5244,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"yearn\",\"index\":8599,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"emcee\",\"index\":9600,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"dates\",\"index\":1234,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"KEYED\",\"ENEMA\",\"ENACT\",\"PUREE\",\"SINES\"]}"
+  },
+  {
+    "averageFrc": 1828.1009999999999,
+    "crossStr": "SASSY  THETA  RANIS  AMIDE  COWER  ",
+    "downStr": "CARTS  OMAHA  WINES  EDITS  RESAY  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"cower\",\"index\":4410,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"amide\",\"index\":6348,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"ranis\",\"index\":8078,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"theta\",\"index\":5155,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"sassy\",\"index\":4466,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"carts\",\"index\":4513,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"omaha\",\"index\":3467,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"wines\",\"index\":1387,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"edits\",\"index\":4931,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"resay\",\"index\":9834,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"COWER\",\"AMIDE\",\"RANIS\",\"THETA\",\"SASSY\"]}"
+  },
+  {
+    "averageFrc": 1806.1,
+    "crossStr": "SHIER  RAMIE  ALARY  SLIER  TAMED  ",
+    "downStr": "TSARS  ALLAH  MIAMI  EERIE  DRYER  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"tamed\",\"index\":5450,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"slier\",\"index\":8855,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"alary\",\"index\":10257,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"ramie\",\"index\":4922,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"shier\",\"index\":7475,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"tsars\",\"index\":4265,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"allah\",\"index\":2843,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"miami\",\"index\":1322,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"eerie\",\"index\":4684,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"dryer\",\"index\":6362,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"TAMED\",\"SLIER\",\"ALARY\",\"RAMIE\",\"SHIER\"]}"
+  },
+  {
+    "averageFrc": 1695.9,
+    "crossStr": "SLEDS  TEPEE  ABASE  HOGAN  KNACK  ",
+    "downStr": "KHATS  NOBEL  AGAPE  CASED  KNEES  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"knack\",\"index\":5390,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"hogan\",\"index\":6675,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"abase\",\"index\":4707,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"tepee\",\"index\":5604,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"sleds\",\"index\":4685,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"khats\",\"index\":8709,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"nobel\",\"index\":3388,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"agape\",\"index\":5179,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"cased\",\"index\":5870,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"knees\",\"index\":1545,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"KNACK\",\"HOGAN\",\"ABASE\",\"TEPEE\",\"SLEDS\"]}"
+  },
+  {
+    "averageFrc": 1479.5,
+    "crossStr": "ELANS  RANEE  READS  ARRAS  BUGLE  ",
+    "downStr": "BARRE  UREAL  GRANA  LADEN  ESSES  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"bugle\",\"index\":4769,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"arras\",\"index\":8718,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"reads\",\"index\":1433,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"ranee\",\"index\":8412,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"elans\",\"index\":5852,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"barre\",\"index\":6968,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"ureal\",\"index\":10099,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"grana\",\"index\":9049,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"laden\",\"index\":3946,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"esses\",\"index\":8176,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"BUGLE\",\"ARRAS\",\"READS\",\"RANEE\",\"ELANS\"]}"
+  },
+  {
+    "averageFrc": 1440.601,
+    "crossStr": "SLOES  TITHE  ROUTS  ABLES  MAPLE  ",
+    "downStr": "MARTS  ABOIL  PLUTO  LETHE  ESSES  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"maple\",\"index\":1646,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"ables\",\"index\":9953,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"routs\",\"index\":6975,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"tithe\",\"index\":5181,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"sloes\",\"index\":8856,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"marts\",\"index\":7458,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"aboil\",\"index\":8755,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"pluto\",\"index\":3392,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"lethe\",\"index\":8267,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"esses\",\"index\":8176,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"MAPLE\",\"ABLES\",\"ROUTS\",\"TITHE\",\"SLOES\"]}"
+  },
+  {
+    "averageFrc": 1355.223,
+    "crossStr": "SATED  GLOVE  ALGAE  RARER  DWARF  ",
+    "downStr": "DRAGS  WALLA  ARGOT  REAVE  FREED  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"dwarf\",\"index\":3483,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"rarer\",\"index\":6501,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"algae\",\"index\":4993,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"glove\",\"index\":2477,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"sated\",\"index\":4423,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"drags\",\"index\":3815,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"walla\",\"index\":8135,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"argot\",\"index\":4874,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"reave\",\"index\":8723,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"freed\",\"index\":2430,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"DWARF\",\"RARER\",\"ALGAE\",\"GLOVE\",\"SATED\"]}"
+  },
+  {
+    "averageFrc": 1328.8,
+    "crossStr": "EATER  SHOTE  RABID  OMBRE  GOATS  ",
+    "downStr": "GORSE  OMAHA  ABBOT  TRITE  SEDER  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"goats\",\"index\":3021,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"ombre\",\"index\":2398,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"rabid\",\"index\":3295,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"shote\",\"index\":10032,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"eater\",\"index\":4759,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"gorse\",\"index\":7913,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"omaha\",\"index\":3467,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"abbot\",\"index\":4159,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"trite\",\"index\":4673,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"seder\",\"index\":6311,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"GOATS\",\"OMBRE\",\"RABID\",\"SHOTE\",\"EATER\"]}"
+  },
+  {
+    "averageFrc": 941.2060000000001,
+    "crossStr": "HELMS  TEASE  OCTAL  OMAHA  TENCH  ",
+    "downStr": "TOOTH  EMCEE  NATAL  CHASM  HALES  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"tench\",\"index\":9427,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"omaha\",\"index\":3467,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"octal\",\"index\":7906,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"tease\",\"index\":2986,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"helms\",\"index\":6453,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"tooth\",\"index\":3840,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"emcee\",\"index\":9600,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"natal\",\"index\":4339,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"chasm\",\"index\":2729,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"hales\",\"index\":8203,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"TENCH\",\"OMAHA\",\"OCTAL\",\"TEASE\",\"HELMS\"]}"
+  },
+  {
+    "averageFrc": 878.4,
+    "crossStr": "SLYER  PASTA  MESON  ALAMO  VIBES  ",
+    "downStr": "VAMPS  ILEAL  BASSY  EMOTE  SONAR  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"vibes\",\"index\":3167,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"alamo\",\"index\":4895,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"meson\",\"index\":6443,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"pasta\",\"index\":2469,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"slyer\",\"index\":7137,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"vamps\",\"index\":8309,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"ileal\",\"index\":7237,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"bassy\",\"index\":9363,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"emote\",\"index\":5222,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"sonar\",\"index\":4045,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"VIBES\",\"ALAMO\",\"MESON\",\"PASTA\",\"SLYER\"]}"
+  },
+  {
+    "averageFrc": 477.5,
+    "crossStr": "MERES  AVAST  RINSE  CALOR  SNUFF  ",
+    "downStr": "SCRAM  NAIVE  ULNAR  FOSSE  FRETS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"snuff\",\"index\":4559,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"calor\",\"index\":10249,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"rinse\",\"index\":3700,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"avast\",\"index\":7147,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"meres\",\"index\":9191,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"scram\",\"index\":7018,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"naive\",\"index\":2983,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"ulnar\",\"index\":5688,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"fosse\",\"index\":8109,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"frets\",\"index\":6439,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"SNUFF\",\"CALOR\",\"RINSE\",\"AVAST\",\"MERES\"]}"
+  },
+  {
+    "averageFrc": 466.15600000000006,
+    "crossStr": "MARES  SMELT  AIRER  PRANA  SPRAT  ",
+    "downStr": "SPASM  PRIMA  RARER  ANELE  TARTS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"sprat\",\"index\":7801,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"prana\",\"index\":7149,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"airer\",\"index\":8510,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"smelt\",\"index\":4457,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"mares\",\"index\":3543,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"spasm\",\"index\":3032,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"prima\",\"index\":9301,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"rarer\",\"index\":6501,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"anele\",\"index\":9882,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"tarts\",\"index\":8938,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"SPRAT\",\"PRANA\",\"AIRER\",\"SMELT\",\"MARES\"]}"
+  },
+  {
+    "averageFrc": 264.3,
+    "crossStr": "SLYLY  TATAR  SENNA  ARIEL  VULVA  ",
+    "downStr": "VASTS  UREAL  LINTY  VENAL  ALARY  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"vulva\",\"index\":4336,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"ariel\",\"index\":4355,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"senna\",\"index\":6083,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"tatar\",\"index\":6638,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"slyly\",\"index\":6371,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"vasts\",\"index\":6042,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"ureal\",\"index\":10099,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"linty\",\"index\":9463,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"venal\",\"index\":6760,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"alary\",\"index\":10257,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"VULVA\",\"ARIEL\",\"SENNA\",\"TATAR\",\"SLYLY\"]}"
+  },
+  {
+    "averageFrc": 247.99099999999999,
+    "crossStr": "STYES  KRAIT  COPRA  AMEER  HARED  ",
+    "downStr": "HACKS  AMORT  REPAY  EERIE  DRATS  ",
+    "boardJson": "{\"row\":5,\"col\":5,\"words\":[{\"word\":\"hared\",\"index\":9117,\"cross\":true,\"startRow\":4,\"startCol\":0},{\"word\":\"ameer\",\"index\":6037,\"cross\":true,\"startRow\":3,\"startCol\":0},{\"word\":\"copra\",\"index\":5402,\"cross\":true,\"startRow\":2,\"startCol\":0},{\"word\":\"krait\",\"index\":9061,\"cross\":true,\"startRow\":1,\"startCol\":0},{\"word\":\"styes\",\"index\":7980,\"cross\":true,\"startRow\":0,\"startCol\":0},{\"word\":\"hacks\",\"index\":4660,\"cross\":false,\"startRow\":4,\"startCol\":0},{\"word\":\"amort\",\"index\":8843,\"cross\":false,\"startRow\":4,\"startCol\":1},{\"word\":\"repay\",\"index\":7386,\"cross\":false,\"startRow\":4,\"startCol\":2},{\"word\":\"eerie\",\"index\":4684,\"cross\":false,\"startRow\":4,\"startCol\":3},{\"word\":\"drats\",\"index\":8657,\"cross\":false,\"startRow\":4,\"startCol\":4}],\"board\":[\"HARED\",\"AMEER\",\"COPRA\",\"KRAIT\",\"STYES\"]}"
+  }
+]

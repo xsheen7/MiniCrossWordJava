@@ -1,0 +1,1292 @@
+[
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "trim",
+      "audi",
+      "glen",
+      "eat",
+      "tag",
+      "rule",
+      "idea",
+      "mint"
+    ],
+    "board": [
+      "TRIM",
+      "AUDI",
+      "GLEN",
+      "$EAT"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "wino",
+      "eden",
+      "else",
+      "pet",
+      "weep",
+      "idle",
+      "nest",
+      "one"
+    ],
+    "board": [
+      "WINO",
+      "EDEN",
+      "ELSE",
+      "PET$"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "slim",
+      "lure",
+      "axon",
+      "pen",
+      "slap",
+      "luxe",
+      "iron",
+      "men"
+    ],
+    "board": [
+      "SLIM",
+      "LURE",
+      "AXON",
+      "PEN$"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "sit",
+      "semi",
+      "head",
+      "emmy",
+      "she",
+      "seem",
+      "imam",
+      "tidy"
+    ],
+    "board": [
+      "$SIT",
+      "SEMI",
+      "HEAD",
+      "EMMY"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "mud",
+      "arab",
+      "side",
+      "scot",
+      "mass",
+      "uric",
+      "dado",
+      "bet"
+    ],
+    "board": [
+      "MUD$",
+      "ARAB",
+      "SIDE",
+      "SCOT"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "lear",
+      "eave",
+      "grid",
+      "old",
+      "lego",
+      "earl",
+      "avid",
+      "red"
+    ],
+    "board": [
+      "LEAR",
+      "EAVE",
+      "GRID",
+      "OLD$"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "goat",
+      "able",
+      "peon",
+      "eye",
+      "gape",
+      "obey",
+      "aloe",
+      "ten"
+    ],
+    "board": [
+      "GOAT",
+      "ABLE",
+      "PEON",
+      "EYE$"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "bid",
+      "lout",
+      "itch",
+      "pate",
+      "blip",
+      "iota",
+      "duct",
+      "the"
+    ],
+    "board": [
+      "BID$",
+      "LOUT",
+      "ITCH",
+      "PATE"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "foot",
+      "omni",
+      "rate",
+      "nor",
+      "for",
+      "oman",
+      "onto",
+      "tier"
+    ],
+    "board": [
+      "FOOT",
+      "OMNI",
+      "RATE",
+      "$NOR"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "gal",
+      "taxi",
+      "isle",
+      "chef",
+      "tic",
+      "gash",
+      "axle",
+      "lief"
+    ],
+    "board": [
+      "$GAL",
+      "TAXI",
+      "ISLE",
+      "CHEF"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "herb",
+      "epee",
+      "soda",
+      "son",
+      "hes",
+      "epos",
+      "redo",
+      "bean"
+    ],
+    "board": [
+      "HERB",
+      "EPEE",
+      "SODA",
+      "$SON"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "oss",
+      "whip",
+      "logo",
+      "send",
+      "owls",
+      "shoe",
+      "sign",
+      "pod"
+    ],
+    "board": [
+      "OSS$",
+      "WHIP",
+      "LOGO",
+      "SEND"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "ego",
+      "burr",
+      "urea",
+      "yowl",
+      "buy",
+      "euro",
+      "grew",
+      "oral"
+    ],
+    "board": [
+      "$EGO",
+      "BURR",
+      "UREA",
+      "YOWL"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "kid",
+      "pupa",
+      "adam",
+      "dude",
+      "pad",
+      "kudu",
+      "ipad",
+      "dame"
+    ],
+    "board": [
+      "$KID",
+      "PUPA",
+      "ADAM",
+      "DUDE"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "ask",
+      "gait",
+      "ogle",
+      "gall",
+      "agog",
+      "saga",
+      "kill",
+      "tel"
+    ],
+    "board": [
+      "ASK$",
+      "GAIT",
+      "OGLE",
+      "GALL"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "pool",
+      "undo",
+      "scow",
+      "her",
+      "push",
+      "once",
+      "odor",
+      "low"
+    ],
+    "board": [
+      "POOL",
+      "UNDO",
+      "SCOW",
+      "HER$"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "spay",
+      "polo",
+      "yolk",
+      "rye",
+      "spy",
+      "poor",
+      "ally",
+      "yoke"
+    ],
+    "board": [
+      "SPAY",
+      "POLO",
+      "YOLK",
+      "$RYE"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "smug",
+      "horn",
+      "yoga",
+      "new",
+      "shy",
+      "moon",
+      "urge",
+      "gnaw"
+    ],
+    "board": [
+      "SMUG",
+      "HORN",
+      "YOGA",
+      "$NEW"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "put",
+      "base",
+      "open",
+      "wart",
+      "bow",
+      "papa",
+      "user",
+      "tent"
+    ],
+    "board": [
+      "$PUT",
+      "BASE",
+      "OPEN",
+      "WART"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "lay",
+      "para",
+      "anew",
+      "lean",
+      "pal",
+      "lane",
+      "area",
+      "yawn"
+    ],
+    "board": [
+      "$LAY",
+      "PARA",
+      "ANEW",
+      "LEAN"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "mole",
+      "avow",
+      "race",
+      "elk",
+      "mare",
+      "oval",
+      "lock",
+      "ewe"
+    ],
+    "board": [
+      "MOLE",
+      "AVOW",
+      "RACE",
+      "ELK$"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "prof",
+      "roil",
+      "yale",
+      "dye",
+      "pry",
+      "road",
+      "oily",
+      "flee"
+    ],
+    "board": [
+      "PROF",
+      "ROIL",
+      "YALE",
+      "$DYE"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "jog",
+      "abet",
+      "zone",
+      "zeta",
+      "jazz",
+      "oboe",
+      "gent",
+      "tea"
+    ],
+    "board": [
+      "JOG$",
+      "ABET",
+      "ZONE",
+      "ZETA"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "sod",
+      "crop",
+      "acre",
+      "mama",
+      "scam",
+      "orca",
+      "dorm",
+      "pea"
+    ],
+    "board": [
+      "SOD$",
+      "CROP",
+      "ACRE",
+      "MAMA"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "ware",
+      "amid",
+      "gold",
+      "key",
+      "wag",
+      "amok",
+      "rile",
+      "eddy"
+    ],
+    "board": [
+      "WARE",
+      "AMID",
+      "GOLD",
+      "$KEY"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "rim",
+      "gory",
+      "emit",
+      "lash",
+      "gel",
+      "roma",
+      "iris",
+      "myth"
+    ],
+    "board": [
+      "$RIM",
+      "GORY",
+      "EMIT",
+      "LASH"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "wash",
+      "acme",
+      "neon",
+      "erg",
+      "wane",
+      "acer",
+      "smog",
+      "hen"
+    ],
+    "board": [
+      "WASH",
+      "ACME",
+      "NEON",
+      "ERG$"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "text",
+      "ecru",
+      "shag",
+      "toy",
+      "test",
+      "echo",
+      "xray",
+      "tug"
+    ],
+    "board": [
+      "TEXT",
+      "ECRU",
+      "SHAG",
+      "TOY$"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "ole",
+      "pave",
+      "even",
+      "card",
+      "opec",
+      "lava",
+      "ever",
+      "end"
+    ],
+    "board": [
+      "OLE$",
+      "PAVE",
+      "EVEN",
+      "CARD"
+    ]
+  },
+  {
+    "row": 4,
+    "col": 4,
+    "words": [
+      "log",
+      "save",
+      "amen",
+      "dane",
+      "sad",
+      "lama",
+      "oven",
+      "gene"
+    ],
+    "board": [
+      "$LOG",
+      "SAVE",
+      "AMEN",
+      "DANE"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "odd",
+      "waver",
+      "enema",
+      "strum",
+      "tetra",
+      "west",
+      "ante",
+      "overt",
+      "demur",
+      "drama"
+    ],
+    "board": [
+      "$$ODD",
+      "WAVER",
+      "ENEMA",
+      "STRUM",
+      "TETRA"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "jab",
+      "abuts",
+      "doric",
+      "edema",
+      "deter",
+      "jaded",
+      "abode",
+      "buret",
+      "time",
+      "scar"
+    ],
+    "board": [
+      "JAB$$",
+      "ABUTS",
+      "DORIC",
+      "EDEMA",
+      "DETER"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "veg",
+      "arrow",
+      "guava",
+      "upper",
+      "stern",
+      "vagus",
+      "erupt",
+      "grape",
+      "over",
+      "warn"
+    ],
+    "board": [
+      "VEG$$",
+      "ARROW",
+      "GUAVA",
+      "UPPER",
+      "STERN"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "chirp",
+      "racer",
+      "alive",
+      "bolus",
+      "yes",
+      "crab",
+      "halo",
+      "icily",
+      "revue",
+      "press"
+    ],
+    "board": [
+      "CHIRP",
+      "RACER",
+      "ALIVE",
+      "BOLUS",
+      "$$YES"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "rot",
+      "emend",
+      "canoe",
+      "these",
+      "oater",
+      "recto",
+      "omaha",
+      "tenet",
+      "nose",
+      "deer"
+    ],
+    "board": [
+      "ROT$$",
+      "EMEND",
+      "CANOE",
+      "THESE",
+      "OATER"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "staff",
+      "towel",
+      "inane",
+      "recce",
+      "set",
+      "stir",
+      "tone",
+      "awacs",
+      "fence",
+      "fleet"
+    ],
+    "board": [
+      "STAFF",
+      "TOWEL",
+      "INANE",
+      "RECCE",
+      "$$SET"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "rag",
+      "elect",
+      "apnea",
+      "chunk",
+      "taste",
+      "react",
+      "alpha",
+      "genus",
+      "cent",
+      "take"
+    ],
+    "board": [
+      "RAG$$",
+      "ELECT",
+      "APNEA",
+      "CHUNK",
+      "TASTE"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "plate",
+      "digit",
+      "allah",
+      "store",
+      "war",
+      "pdas",
+      "lilt",
+      "aglow",
+      "tiara",
+      "ether"
+    ],
+    "board": [
+      "PLATE",
+      "DIGIT",
+      "ALLAH",
+      "STORE",
+      "$$WAR"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "rat",
+      "spade",
+      "olden",
+      "leapt",
+      "earth",
+      "sole",
+      "plea",
+      "radar",
+      "adept",
+      "tenth"
+    ],
+    "board": [
+      "$$RAT",
+      "SPADE",
+      "OLDEN",
+      "LEAPT",
+      "EARTH"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "manta",
+      "aloof",
+      "cobra",
+      "ruler",
+      "ode",
+      "macro",
+      "aloud",
+      "noble",
+      "tore",
+      "afar"
+    ],
+    "board": [
+      "MANTA",
+      "ALOOF",
+      "COBRA",
+      "RULER",
+      "ODE$$"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "label",
+      "anode",
+      "usage",
+      "direr",
+      "dry",
+      "laud",
+      "ansi",
+      "board",
+      "edger",
+      "leery"
+    ],
+    "board": [
+      "LABEL",
+      "ANODE",
+      "USAGE",
+      "DIRER",
+      "$$DRY"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "sea",
+      "trump",
+      "ardor",
+      "noise",
+      "dross",
+      "stand",
+      "error",
+      "audio",
+      "moss",
+      "pres"
+    ],
+    "board": [
+      "SEA$$",
+      "TRUMP",
+      "ARDOR",
+      "NOISE",
+      "DROSS"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "tan",
+      "crime",
+      "airer",
+      "spend",
+      "teddy",
+      "cast",
+      "ripe",
+      "tired",
+      "amend",
+      "nerdy"
+    ],
+    "board": [
+      "$$TAN",
+      "CRIME",
+      "AIRER",
+      "SPEND",
+      "TEDDY"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "gross",
+      "aorta",
+      "lobar",
+      "afire",
+      "tee",
+      "gala",
+      "roof",
+      "orbit",
+      "stare",
+      "saree"
+    ],
+    "board": [
+      "GROSS",
+      "AORTA",
+      "LOBAR",
+      "AFIRE",
+      "$$TEE"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "mam",
+      "inept",
+      "rider",
+      "voice",
+      "snake",
+      "mirvs",
+      "anion",
+      "media",
+      "peck",
+      "tree"
+    ],
+    "board": [
+      "MAM$$",
+      "INEPT",
+      "RIDER",
+      "VOICE",
+      "SNAKE"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "vista",
+      "incur",
+      "storm",
+      "irony",
+      "top",
+      "visit",
+      "intro",
+      "scoop",
+      "turn",
+      "army"
+    ],
+    "board": [
+      "VISTA",
+      "INCUR",
+      "STORM",
+      "IRONY",
+      "TOP$$"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "patch",
+      "adore",
+      "rural",
+      "slump",
+      "its",
+      "parsi",
+      "adult",
+      "torus",
+      "cram",
+      "help"
+    ],
+    "board": [
+      "PATCH",
+      "ADORE",
+      "RURAL",
+      "SLUMP",
+      "ITS$$"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "sonar",
+      "tribe",
+      "eagle",
+      "ethyl",
+      "let",
+      "steel",
+      "orate",
+      "night",
+      "ably",
+      "reel"
+    ],
+    "board": [
+      "SONAR",
+      "TRIBE",
+      "EAGLE",
+      "ETHYL",
+      "LET$$"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "sable",
+      "allow",
+      "rouse",
+      "inner",
+      "net",
+      "sarin",
+      "alone",
+      "blunt",
+      "lose",
+      "ewer"
+    ],
+    "board": [
+      "SABLE",
+      "ALLOW",
+      "ROUSE",
+      "INNER",
+      "NET$$"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "stoat",
+      "copra",
+      "alter",
+      "blend",
+      "day",
+      "scab",
+      "toll",
+      "opted",
+      "arena",
+      "tardy"
+    ],
+    "board": [
+      "STOAT",
+      "COPRA",
+      "ALTER",
+      "BLEND",
+      "$$DAY"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "sac",
+      "crate",
+      "agree",
+      "lover",
+      "enemy",
+      "scale",
+      "argon",
+      "carve",
+      "teem",
+      "eery"
+    ],
+    "board": [
+      "SAC$$",
+      "CRATE",
+      "AGREE",
+      "LOVER",
+      "ENEMY"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "tamps",
+      "await",
+      "manna",
+      "eying",
+      "cay",
+      "tame",
+      "away",
+      "manic",
+      "pinna",
+      "stagy"
+    ],
+    "board": [
+      "TAMPS",
+      "AWAIT",
+      "MANNA",
+      "EYING",
+      "$$CAY"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "fog",
+      "spell",
+      "outdo",
+      "flair",
+      "alley",
+      "sofa",
+      "pull",
+      "fetal",
+      "oldie",
+      "glory"
+    ],
+    "board": [
+      "$$FOG",
+      "SPELL",
+      "OUTDO",
+      "FLAIR",
+      "ALLEY"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "scald",
+      "curio",
+      "atone",
+      "riser",
+      "fee",
+      "scarf",
+      "cutie",
+      "arose",
+      "line",
+      "doer"
+    ],
+    "board": [
+      "SCALD",
+      "CURIO",
+      "ATONE",
+      "RISER",
+      "FEE$$"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "chest",
+      "ranch",
+      "aider",
+      "prone",
+      "wee",
+      "crap",
+      "hair",
+      "endow",
+      "scene",
+      "three"
+    ],
+    "board": [
+      "CHEST",
+      "RANCH",
+      "AIDER",
+      "PRONE",
+      "$$WEE"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "baled",
+      "elope",
+      "logic",
+      "chick",
+      "han",
+      "belch",
+      "aloha",
+      "login",
+      "epic",
+      "deck"
+    ],
+    "board": [
+      "BALED",
+      "ELOPE",
+      "LOGIC",
+      "CHICK",
+      "HAN$$"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "dna",
+      "weber",
+      "aware",
+      "resin",
+      "freed",
+      "dwarf",
+      "newer",
+      "abase",
+      "erie",
+      "rend"
+    ],
+    "board": [
+      "DNA$$",
+      "WEBER",
+      "AWARE",
+      "RESIN",
+      "FREED"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "amass",
+      "banal",
+      "anglo",
+      "forte",
+      "try",
+      "abaft",
+      "manor",
+      "angry",
+      "salt",
+      "sloe"
+    ],
+    "board": [
+      "AMASS",
+      "BANAL",
+      "ANGLO",
+      "FORTE",
+      "TRY$$"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "owl",
+      "shire",
+      "cocoa",
+      "alias",
+      "retry",
+      "oscar",
+      "whole",
+      "licit",
+      "roar",
+      "easy"
+    ],
+    "board": [
+      "OWL$$",
+      "SHIRE",
+      "COCOA",
+      "ALIAS",
+      "RETRY"
+    ]
+  },
+  {
+    "row": 5,
+    "col": 5,
+    "words": [
+      "lit",
+      "maori",
+      "aural",
+      "state",
+      "toner",
+      "mast",
+      "auto",
+      "loran",
+      "irate",
+      "tiler"
+    ],
+    "board": [
+      "$$LIT",
+      "MAORI",
+      "AURAL",
+      "STATE",
+      "TONER"
+    ]
+  }
+]
